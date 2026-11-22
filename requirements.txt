@@ -1,0 +1,8 @@
+faiss-cpu
+rank_bm25
+sentence-transformers
+langchain-text-splitters
+numpy
+transformers
+accelerate
+torch
